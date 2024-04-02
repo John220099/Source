@@ -3,6 +3,6 @@ A private Repo for my 3de party AppStore
 
 apps
 - eclipse
-- jimhdev sign remasterd
+- jimhdev
 
 just webview apps and more
